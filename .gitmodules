@@ -1,0 +1,3 @@
+[submodule "my_plugins/vim-airline"]
+	path = my_plugins/vim-airline
+	url = https://github.com/vim-airline/vim-airline
